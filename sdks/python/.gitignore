@@ -1,8 +1,5 @@
 /client/.openapi-generator/
 /client/.gitignore
 /client/.openapi-generator-ignore
-/client/*.*
-/client/README.md
 /client/test
 /client/test-requirements.txt
-/client/.gitignore
